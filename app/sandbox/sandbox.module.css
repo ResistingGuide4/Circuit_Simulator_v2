@@ -1,0 +1,29 @@
+.outerContainer {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: fixed;
+}
+
+.titleContainer {
+    width: 100vw;
+    height: 10vh;
+    background-color: #000c8b;
+}
+
+.title {
+    margin: 0;
+    text-align: center;
+    line-height: 10vh;
+}
+
+.toolbar {
+    width: 100vw;
+    height: 10vh;
+    background-color: #000a7a;
+    margin: 0;
+}
+
+.canvas {
+    margin: 0;
+}
